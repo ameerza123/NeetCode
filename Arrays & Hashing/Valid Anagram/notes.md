@@ -12,3 +12,5 @@ Initial thoughts:
 
 Looking at the solution I saw a much shorter solution.
 The solution was not easy to understand just from reading so I thought to expand it.
+
+It took quite some time as I was unfamiliar with all the syntax for using hash maps.
