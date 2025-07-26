@@ -20,3 +20,8 @@ Reading the question hints suggests that a better solution would require the use
 
 Time Complexity: O(n) - requires one loop over array of size n
 Space Complexity: O(n) - added hash set size of n
+
+# Successful Solution Attempts
+(Attempts made to solve the problem without looking at any hints/solutions)
+
+- 26/07/25
